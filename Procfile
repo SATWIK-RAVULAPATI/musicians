@@ -1,1 +1,1 @@
-web: gunicorn MusiciansAid.wsgi --log-file -
+web: gunicorn MusiciansAid.wsgi 
