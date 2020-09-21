@@ -1,1 +1,1 @@
-web: gunicorn MUSICIANSAID.wsgi
+web: gunicorn MusiciansAid.wsgi
