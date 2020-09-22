@@ -27,7 +27,7 @@ SECRET_KEY = '!2v4g)-s=2bjt08l62)6%1r9-!#7)q#c0l86+(ld@3%*%hvf$m'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['https://thebeatles9.herokuapp.com/','127.0.0.1']
+ALLOWED_HOSTS = ['thebeatles9.herokuapp.com/','127.0.0.1']
 
 # Application definition
 
